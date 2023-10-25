@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <p align="left"> <a href="https://twitter.com/smrakib50" target="blank"><img src="https://img.shields.io/twitter/follow/smrakib50?logo=twitter&style=for-the-badge" alt="smrakib50" /></a> </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/smrakib99" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Online Bus Ticket system**
 
