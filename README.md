@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [smrakib50.blogspot.com](smrakib50.blogspot.com)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,JavaScript,SQA**
 
 - 📫 How to reach me **smrakib.170110@s.pust.ac.bd**
 
