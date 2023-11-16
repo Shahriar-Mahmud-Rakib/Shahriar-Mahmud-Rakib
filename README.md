@@ -40,11 +40,10 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/smrakib" target="_blank">
- <i class='fab fa-hackerrank' style='font-size:48px;color:red'></i>
+
 </a>
-<i class='fab fa-hackerrank' style='font-size:48px;color:red'></i>
 <a href="https://leetcode.com/shahriar_mahmud_rakib/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="30" width="30"/>
+ 
 </a>
 
 </p>
