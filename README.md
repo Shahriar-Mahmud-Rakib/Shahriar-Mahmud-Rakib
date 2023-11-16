@@ -27,11 +27,26 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
 </a>
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19353060/md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19353060/md-rakibul-islam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/smrakib.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/smrakib.live" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/smrakib.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/smrakib.99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/smrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/smrakib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shahriar_mahmud_rakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shahriar_mahmud_rakib/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19353060/md-rakibul-islam" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="30"/>
+</a>
+
+<a href="https://www.facebook.com/smrakib.live" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="30"/>
+</a>
+
+<a href="https://www.instagram.com/smrakib.99" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/smrakib" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" height="30" width="30"/>
+</a>
+
+<a href="https://leetcode.com/shahriar_mahmud_rakib/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="30" width="30"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
