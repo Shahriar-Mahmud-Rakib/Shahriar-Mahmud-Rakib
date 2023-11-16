@@ -21,29 +21,31 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smrakib50" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="40"/>
 </a>
 <a href="https://www.linkedin.com/in/smrakib99/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40"/>
 </a>
 
 <a href="https://stackoverflow.com/users/19353060/md-rakibul-islam" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="40"/>
 </a>
 
 <a href="https://www.facebook.com/smrakib.live" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/smrakib.99" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/smrakib" target="_blank">
+<img src="https://img.shields.io/badge/Connect-HackerRank-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
 
 </a>
 <a href="https://leetcode.com/shahriar_mahmud_rakib/" target="_blank">
- 
+ <img src="https://img.shields.io/badge/Connect-LeetCode-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+
 </a>
 
 </p>
