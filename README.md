@@ -23,8 +23,10 @@
 <a href="https://twitter.com/smrakib50" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="30"/>
 </a>
+<a href="https://www.linkedin.com/in/smrakib99/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
+</a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/smrakib99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smrakib99/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19353060/md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19353060/md-rakibul-islam" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/smrakib.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/smrakib.live" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/smrakib.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/smrakib.99" height="30" width="40" /></a>
