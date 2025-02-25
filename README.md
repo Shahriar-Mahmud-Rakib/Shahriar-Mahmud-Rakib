@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Online Bus Ticket system**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Python with Django**
 
 - 👨‍💻 All of my projects are available at [https://shahriar-mahmud-rakib.github.io/portfolio](https://shahriar-mahmud-rakib.github.io/portfolio)
 
